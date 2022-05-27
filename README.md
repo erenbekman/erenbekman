@@ -1,10 +1,10 @@
 ### Hi there, I'm Eren 👋
 
 Computer Engineering
-<br/>
+<!-- <br/>
 📫 [How to reach me](mailto:erenbekman@gmail.com)
 <br/>
-🌱 I’m currently learning everything 🤣
+🌱 I’m currently learning everything 🤣 -->
 
 <!-- ✨ I am a 3rd year Computer Engineering student at Beykent University.
 Technologies I use: Html, Css, JavaScript, PHP, Laravel, Vue js, Nuxt js, Node js, Mongo DB, MYSQL, Solidity ,Smart Contract, Web3/Ethers js, Truffle/Hardhat  -->
@@ -12,27 +12,27 @@ Technologies I use: Html, Css, JavaScript, PHP, Laravel, Vue js, Nuxt js, Node j
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/ErenBekman#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ErenBekman#gh-dark-mode-only)
+[(./img/twitter-light.svg)](https://twitter.com/ErenBekman#gh-light-mode-only)
+<!-- [(./img/twitter-dark.svg)](https://twitter.com/ErenBekman#gh-dark-mode-only) -->
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/erenbekman#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/erenbekman#gh-dark-mode-only)
+[(./img/linkedin-light.svg)](https://linkedin.com/in/erenbekman#gh-light-mode-only)
+<!-- [(./img/linkedin-dark.svg)](https://linkedin.com/in/erenbekman#gh-dark-mode-only) -->
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/erenbekmann#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/erenbekmann#gh-dark-mode-only)
+[(./img/instagram-light.svg)](https://instagram.com/erenbekmann#gh-light-mode-only)
+<!-- [(./img/instagram-dark.svg)](https://instagram.com/erenbekmann#gh-dark-mode-only) -->
 
 #### 🧰 Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="LARAVEL" width="26px" src="https://www.zend.com/sites/default/files/image/2019-09/logo-laravel.jpg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Solidity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Ethereum" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />]
+[<img align="left" alt="LARAVEL" width="26px" src="https://www.zend.com/sites/default/files/image/2019-09/logo-laravel.jpg" style="padding-right:10px;" />]
+[<img align="left" alt="Solidity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" style="padding-right:10px;" />]
+[<img align="left" alt="Ethereum" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 
 <!-- <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" alt="Ethereum" height="40" style="vertical-align:top; margin:4px">
@@ -58,4 +58,3 @@ Technologies I use: Html, Css, JavaScript, PHP, Laravel, Vue js, Nuxt js, Node j
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
