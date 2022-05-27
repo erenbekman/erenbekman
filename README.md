@@ -40,8 +40,8 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
   
- 
-    <img src="https://w7.pngwing.com/pngs/159/845/png-transparent-ethereum-cryptocurrency-bitcoin-blockchain-logo-bitcoin-angle-triangle-logo.png" alt="ethereum" width="40" height="40"/> 
+ <a href="" target="_blank"> 
+    <img src="https://w7.pngwing.com/pngs/159/845/png-transparent-ethereum-cryptocurrency-bitcoin-blockchain-logo-bitcoin-angle-triangle-logo.png" alt="ethereum" width="40" height="40"/> </a> 
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
