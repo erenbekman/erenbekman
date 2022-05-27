@@ -40,7 +40,7 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
   
- <a href="" target="_blank"> 
+ <a href="https://ethereum.org/en/" target="_blank"> 
     <img src="https://w7.pngwing.com/pngs/159/845/png-transparent-ethereum-cryptocurrency-bitcoin-blockchain-logo-bitcoin-angle-triangle-logo.png" alt="ethereum" width="40" height="40"/> </a> 
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  
 
- <a href="" target="_blank"> 
+ <a href="https://www.docker.com/" target="_blank"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
