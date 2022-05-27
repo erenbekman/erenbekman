@@ -24,8 +24,9 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
    
-     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a> 
+  <a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> 
+ </a> 
    
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -39,7 +40,7 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
   
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> 
+  <a> 
     <img src="https://w7.pngwing.com/pngs/159/845/png-transparent-ethereum-cryptocurrency-bitcoin-blockchain-logo-bitcoin-angle-triangle-logo.png" alt="ethereum" width="40" height="40"/> </a> 
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
