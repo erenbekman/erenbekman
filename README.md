@@ -10,21 +10,12 @@
 <a href="https://linkedin.com/in/erenbekman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenbekman" height="30" width="40" /></a>
   </p> 
  <br>
-  <h2>About Me</h2>
-  <br>
   <p>
   <h1 align="center">Hi 👋, I'm Eren</h1>
    <h3 align="center">Fullstack developer | Blockchain developer</h3> 
    - 📫 How to reach me **erenbekman@gmail.com**
   </p>
 </div>
-
-
-
-
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
