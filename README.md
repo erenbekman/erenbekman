@@ -1,5 +1,23 @@
-<h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">Fullstack developer | Blockchain developer</h3>
+<div align="center">
+  <img  src="https://user-images.githubusercontent.com/81809211/160313310-d13df468-0e79-4b47-8c4b-531632fb2e63.gif" alt="transparent-welcome" />
+  <img  src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif" alt="transparent-coder" height=500 />
+  <br><br>
+  <!--Social Media -->
+  <p align="center">
+    <a href="https://www.instagram.com/berkay.crk/" target="_blank"><img src="./img/Instagram.svg" width="36" alt="Instagram"/><a/>
+    <a href="https://twitter.com/berkaycirak" target="_blank"><img src="./img/twitter-original.svg" width="36"  alt="Twitter" /><a/>
+    <a href="https://www.linkedin.com/in/berkaycrk/" target="_blank"><img src="./img/linkedin-original.svg" width="36" alt="Linkedin" /><a/>
+  </p> 
+ <br>
+  <h2>About Me</h2>
+  <br>
+  <p>
+  <h1 align="center">Hi 👋, I'm Eren</h1>
+   <h3 align="center">Fullstack developer | Blockchain developer</h3> 
+  </p>
+</div>
+
+
 
 - 📫 How to reach me **erenbekman@gmail.com**
 
