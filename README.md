@@ -3,10 +3,11 @@
   <img  src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif" alt="transparent-coder" height=500 />
   <br><br>
   <!--Social Media -->
+  <h3 align="center">Connect with me:</h3>
   <p align="center">
-    <a href="https://www.instagram.com/berkay.crk/" target="_blank"><img src="./img/Instagram.svg" width="36" alt="Instagram"/><a/>
-    <a href="https://twitter.com/berkaycirak" target="_blank"><img src="./img/twitter-original.svg" width="36"  alt="Twitter" /><a/>
-    <a href="https://www.linkedin.com/in/berkaycrk/" target="_blank"><img src="./img/linkedin-original.svg" width="36" alt="Linkedin" /><a/>
+   <a href="https://twitter.com/erenbekman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erenbekman" height="30" width="40" /></a>
+<a href="https://instagram.com/erenbekmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erenbekmann" height="30" width="40" /></a>   
+<a href="https://linkedin.com/in/erenbekman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenbekman" height="30" width="40" /></a>
   </p> 
  <br>
   <h2>About Me</h2>
@@ -14,19 +15,16 @@
   <p>
   <h1 align="center">Hi 👋, I'm Eren</h1>
    <h3 align="center">Fullstack developer | Blockchain developer</h3> 
+   - 📫 How to reach me **erenbekman@gmail.com**
   </p>
 </div>
 
 
 
-- 📫 How to reach me **erenbekman@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/erenbekman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erenbekman" height="30" width="40" /></a>
-<a href="https://instagram.com/erenbekmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erenbekmann" height="30" width="40" /></a>   
-<a href="https://linkedin.com/in/erenbekman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenbekman" height="30" width="40" /></a>
-</p>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
