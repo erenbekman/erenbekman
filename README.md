@@ -2,6 +2,9 @@
 <h3 align="center">Fullstack developer | Blockchain developer</h3>
 
 - 📫 How to reach me **erenbekman@gmail.com**
+- :paperclip: [My Resume/CV][ErenBekman_CV.pdf](https://github.com/ErenBekman/erenbekman/files/9659034/ErenBekman_CV.pdf)
+
+- :email: erenbekman@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
