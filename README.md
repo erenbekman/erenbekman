@@ -1,4 +1,7 @@
-## Hey 👋, I'm Eren Bekman,  Fullstack Developer | Blockchain Developer 👨‍💻
+## Hey 👋, I'm Eren Bekman,  
+<br />
+<h3 align="center">Fullstack Developer | Blockchain Developer 👨‍💻</h3>
+
   
 
 <a href="https://github.com/erenbekman" target="_blank">
