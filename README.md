@@ -52,8 +52,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"/></a> 
-<a href="https://ethereum.org/en/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/159/845/png-transparent-ethereum-cryptocurrency-bitcoin-blockchain-logo-bitcoin-angle-triangle-logo.png"/></a> 
+<a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" height="50" alt="solidity" /></a> 
+<a href="https://ethereum.org/en/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/159/845/png-transparent-ethereum-cryptocurrency-bitcoin-blockchain-logo-bitcoin-angle-triangle-logo.png" height="50" alt="ethereum" /></a> 
 </div>  
 
 <br/>  
