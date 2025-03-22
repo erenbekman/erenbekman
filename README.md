@@ -1,6 +1,8 @@
-I am a Full stack developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Node.js and Vue.js. I also have experience working with PHP, Laravel, Nuxt.js and MongoDB, MySQL and I am interested in blockchain technology and innovations. 
-
-<div align="left">
+<div>
+Full Stack Developer | JavaScript, Node.js, Vue.js specialist. Experienced with PHP, Laravel, Nuxt.js, MongoDB and MySQL. Interested in blockchain technologies, innovations and artificial intelligence.
+</div>
+<br />
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
